@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Hello]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24" started-at="2021-12-31T06:16:22Z" finished-at="2021-12-31T06:16:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24" started-at="2021-12-31T06:16:22Z" finished-at="2021-12-31T06:16:22Z">
+      <class name="testNG.TestNGClass">
+        <test-method status="PASS" signature="test1()[pri:0, instance:testNG.TestNGClass@53b32d7]" name="test1" duration-ms="6" started-at="2021-12-31T06:16:22Z" finished-at="2021-12-31T06:16:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Hello]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- testNG.TestNGClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
